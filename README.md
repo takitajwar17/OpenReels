@@ -2,6 +2,12 @@
 
 Open-source AI pipeline that turns any topic into a fully rendered YouTube Short — research, script, voiceover, images, captions, and video assembly in one command.
 
+## Demo
+
+> *"The photographer who tricked the entire art world with AI"* — generated with `--archetype editorial_caricature`
+
+https://github.com/user-attachments/assets/PLACEHOLDER
+
 ## What it does
 
 Give it a topic. It handles everything else:
