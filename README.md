@@ -4,11 +4,21 @@ Open-source AI pipeline that turns any topic into a fully rendered YouTube Short
 
 ## Demo
 
-> *"The photographer who tricked the entire art world with AI"* — generated with `--archetype editorial_caricature`
+<div align="center">
 
 
 https://github.com/user-attachments/assets/189967cd-de41-4ce1-b2c4-33f40b6c19a9
 
+
+**Topic in, MP4 out.** This video was generated in a single command:
+
+```bash
+openreels "The photographer who tricked the entire art world with AI — and won first place \
+at the Sony World Photography Award, only to reveal it was AI-generated and refuse the prize" \
+--archetype editorial_caricature
+```
+
+</div>
 
 ## What it does
 
