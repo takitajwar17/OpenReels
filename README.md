@@ -9,15 +9,13 @@ Web UI with live pipeline visualization, REST API, Docker, and CLI. Bring your o
 <div align="center">
 
 
-https://github.com/user-attachments/assets/189967cd-de41-4ce1-b2c4-33f40b6c19a9
+https://github.com/user-attachments/assets/VIDEO_ID_HERE
 
 
 **Topic in, MP4 out.** This video was generated in a single command:
 
 ```bash
-openreels "The photographer who tricked the entire art world with AI — and won first place \
-at the Sony World Photography Award, only to reveal it was AI-generated and refuse the prize" \
---archetype editorial_caricature
+openreels "the apollo 13 disaster, from explosion to miraculous return" --provider google
 ```
 
 </div>
